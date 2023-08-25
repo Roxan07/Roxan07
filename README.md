@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Roxan07
+- 👋 Hi, I’m roshan shah
 - 👀 I’m a student right now pursuing my bachelors
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
